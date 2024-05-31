@@ -27,6 +27,7 @@ fields where I can create software with my stack.
 - C/C++, primarily C++17, learning 20
 - CMake, although eager to try other build systems
 - Python, my second love
+- Docker, helping hand in isolating build envs
 
 ## What I like
 
