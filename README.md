@@ -35,10 +35,10 @@ fields where I can create software with my stack.
 
 ### Languages
 
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?layout=donut&username=AshFungor&theme=github_dark"/>
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?layout=donut&hide_border=true&langs_count=4&username=AshFungor&theme=github_dark"/>
 
 ### Stats
 
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=AshFungor&theme=github_dark&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=commits,issues"/>
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=AshFungor&theme=github_dark&hide_border=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=commits,issues"/>
 
 
