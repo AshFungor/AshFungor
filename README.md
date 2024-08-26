@@ -35,3 +35,6 @@ fields where I can create software with my stack.
 - clean and styled code, interfaces
 - spiders 🕷
 
+[![My Stats](https://194.87.110.15/api?username=AshFungor)](https://github.com/anuraghazra/github-readme-stats)
+
+
