@@ -3,8 +3,9 @@ Cpp dev
 ## What I did
 
 Worked at Embedded Systems at Yandex as intern, participated
-in university-curated project Laar (also Embedded), developed daemon
-for processing and controlling raw sound samples on device.
+in university-curated project Laar (also Embedded), developed system daemon
+for processing and controlling raw sound samples on device, supporting multiple
+clients, mixing and frequency filtering.
 
 ## What I am learning
 
@@ -15,26 +16,20 @@ fields where I can create software with my stack.
 
 ## What I know
 
-- multithreading: primitives, design and possible problems
-- memory management: smart pointers and their neat parts
-- design patterns: interfaces, factories, singletons and others
-- English: C1 (guess why I write this in English?)
-- workflow: familiar with VCS, creating and reviewing PRs, tests, automation (basic DevOps)
-- OOP: inheritance, polymorphism, encapsulation and everything that Cpp throws with these
+- multithreading
+- memory management
+- software design
+- English: C1
+- workflow in Big Tech
 
-## What I use
+## Github
 
-- C/C++, primarily C++17, learning 20
-- CMake, although eager to try other build systems
-- Python, my second love
-- Docker, helping hand in isolating build envs
+### Languages
 
-## What I like
+[Languages](http://194.87.110.15:9000/top-langs?layout=donut&username=AshFungor&theme=github_dark))
 
-- Embedded systems and applied projects on cpp
-- clean and styled code, interfaces
-- spiders 🕷
+### Stats
 
-[![My Stats](https://194.87.110.15/api?username=AshFungor)](https://github.com/anuraghazra/github-readme-stats)
+[Stats](http://194.87.110.15:9000/?username=AshFungor&theme=github_dark)
 
 
