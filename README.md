@@ -16,6 +16,15 @@ fields where I can create software with my stack.
 
 ## What I know
 
+### Tech
+
+- C/C++
+- Python
+- CMake, linux shell scripting
+- Docker
+
+### Uniform
+
 - multithreading
 - memory management
 - software design
@@ -26,10 +35,10 @@ fields where I can create software with my stack.
 
 ### Languages
 
-[Languages](http://194.87.110.15:9000/top-langs?layout=donut&username=AshFungor&theme=github_dark))
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?layout=donut&username=AshFungor&theme=github_dark"/>
 
 ### Stats
 
-[Stats](http://194.87.110.15:9000/?username=AshFungor&theme=github_dark)
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=AshFungor&theme=github_dark&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,prs,contribs"/>
 
 
