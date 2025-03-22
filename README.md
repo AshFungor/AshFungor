@@ -2,34 +2,19 @@ Cpp dev
 
 ## What I did
 
-Worked at Embedded Systems at Yandex as intern, participated
-in university-curated project Laar (also Embedded), developed system daemon
-for processing and controlling raw sound samples on device, supporting multiple
-clients, mixing and frequency filtering.
+Worked in Embedded Systems at Yandex and Core OS team at Astra.
 
 ## What I am learning
 
-I study as CyberSec specialist at HSE in Russia. I know some
-things about modern cryptography, webapp attacks and network stack, learning
+I study CyberSec at HSE in Russia. I'm learning
 design patterns, trying to have extensive view on different
 fields where I can create software with my stack.
 
 ## What I know
 
-### Tech
-
-- C/C++
-- Python
-- CMake, linux shell scripting
+- C/C++, Python, Go
+- CMake, Shell
 - Docker
-
-### Uniform
-
-- multithreading
-- memory management
-- software design
-- English: C1
-- workflow in Big Tech
 
 ## Github
 
