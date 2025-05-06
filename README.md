@@ -4,9 +4,7 @@ Cpp dev, interned in Embedded Systems at Yandex, working in Core OS team at Astr
 
 ## What I am learning
 
-I study CyberSec at HSE in Russia. I'm learning  
-design patterns, trying to have extensive view on different  
-fields where I can create software with my stack.
+I study CyberSec at HSE in Russia. I'm learning design patterns, trying to have extensive view on different fields where I can create software with my stack.
 
 ## What I know
 
@@ -19,12 +17,6 @@ fields where I can create software with my stack.
 [![Dev Workflow](https://skillicons.dev/icons?i=linux,vscode,git,github)](https://skillicons.dev)
 
 ## Github
-
-### Languages
-
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?layout=donut&langs_count=4&username=AshFungor&theme=github_dark"/>
-
-### Stats
 
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=AshFungor&theme=github_dark&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=commits,issues"/>
 
